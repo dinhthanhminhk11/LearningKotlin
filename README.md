@@ -1,0 +1,2 @@
+# LearningKotlin
+học kotlin thôi :)
